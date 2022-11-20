@@ -11,6 +11,6 @@ Convalidar la práctica laboral.
 > Para ingresar a la app, entrar en http://localhost/inventario/login.php (dirección local)
   
   
-  ** Este proyecto es exclusivamente para uso estudiantil y a modo de convalidad la practica laboral **
-  ** Joseph Yeren Urzúa Araya **
-  ** Aplicación web para Ferretería Castillo **
+  ** Este proyecto es exclusivamente para uso estudiantil y a modo de convalidad la practica laboral 
+  ** Joseph Yeren Urzúa Araya 
+  ** Aplicación web para Ferretería Castillo 
